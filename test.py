@@ -1,22 +1,4 @@
-"""
-test_deepbach_api.py
-====================
-DeepBach PyPI full API test program.
 
-All parameters are set directly in the CONFIG section below.
-
-Test coverage:
-  Step 0  — tkinter file dialog to select the Voice-0 melody file
-  Step 1  — import + __all__ completeness check
-  Step 2  — get_device_info / check_pretrained_weights
-  Step 3  — build_dataset              (with custom_midi_dir branch)
-  Step 4  — create_model / build_model (load_weights=False)
-  Step 5  — load_model / build_model   (load_weights=True)
-  Step 6  — harmonize                  (fix voice-0, generate alto/tenor/bass)
-  Step 7  — generate_from_scratch      (all four voices, no melody input)
-  Step 8  — train_from_scratch / finetune  (signature check or full run)
-  Step 9  — low-level class and constant export check
-"""
 
 import os
 import sys
