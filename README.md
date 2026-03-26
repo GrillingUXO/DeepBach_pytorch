@@ -1,3 +1,12 @@
+# deepbach-pytorch
+```
+pip install deepbach-pytorch==0.3.6
+```
+For detailed usage instructions for the package api, please refer to `test.py` 
+
+
+
+
 # DeepBach
 This repository contains implementations of the DeepBach model described in
 
