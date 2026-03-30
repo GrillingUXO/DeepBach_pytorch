@@ -15,7 +15,7 @@ Gaëtan Hadjeres, François Pachet, Frank Nielsen<br/>
 *ICML 2017 [arXiv:1612.01010](http://proceedings.mlr.press/v70/hadjeres17a.html)*
 
 
-The code uses python 3.6 together with [PyTorch v1.0](https://pytorch.org/) and
+The code uses python 3.9 together with [PyTorch v2.0](https://pytorch.org/) and
  [music21](http://web.mit.edu/music21/) libraries.
 
 For the original Keras version, please checkout the `original_keras` branch.
