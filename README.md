@@ -1,6 +1,6 @@
 # deepbach-pytorch
 ```
-pip install deepbach-pytorch==0.3.6
+pip install deepbach-pytorch==1.0.0
 ```
 For detailed usage instructions for the package api, please refer to `test.py` 
 
